@@ -11,7 +11,7 @@ Boltr Toolkit : Introduction
 Our mission is to build the world best decentralize exchange with a high performance trading engine and safety which can be trusted and enjoyed by users. Additionally we want to move the cryptocurrency exchange technology forward by providing support and add new features in the decentralize ecosystem
 
 
-Boltr Toolkit is a set of React components and hooks used to build pages on Pancake's apps. It also contains a theme file for dark and light mode.
+Boltr Toolkit is a set of React components and hooks used to build pages on Boltrswap's apps. It also contains a theme file for dark and light mode.
 
 ## Install
 
